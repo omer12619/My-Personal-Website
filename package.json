@@ -1,5 +1,5 @@
 {
-  "homepage": "https://omer12619.github.io/My-Personal-Website/",
+  "homepage": "https://omer12619.github.io/My-Personal-Website",
   "name": "my-personal-website",
   "version": "0.1.0",
   "private": true,
@@ -42,6 +42,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
+    "gh-pages": "^6.2.0",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.15"
   }
